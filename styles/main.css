@@ -10,7 +10,7 @@ body {
     text-decoration: none;
     position: absolute;
     left: 50%;
-    width: 780px;
+    width: 778px;
     margin-left: -390px;
 }
 a {
@@ -30,8 +30,8 @@ img {
     border-style: solid;
     border-width: 1.5px;
     border-color: #071419;
-    border-radius: 50px;
-    -moz-border-radius: 50px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
 }
 /* END GENERAL FORMAT */
 
@@ -93,7 +93,7 @@ img {
 #bgRight {
     right: 0;
     float: right;
-    width: 572px;
+    width: 778px;
     bottom: 0;
     top: 0px;
 }
@@ -107,7 +107,7 @@ img {
 /*START MIDDLE */
 
 #middleContainer {
-    width: 780px;
+    width: 778px;
     margin: 5px auto;
     padding: 10px 0;
 }
@@ -155,7 +155,7 @@ ul.comicNav a:hover, ul.comicNav a:focus {
 #bottom {
     margin-top: 5px;
     padding: 25px 15px;
-    width: 750px;
+    width: 748px;
 }
 #comicLinks {
     display: block;
