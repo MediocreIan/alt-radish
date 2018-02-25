@@ -28,8 +28,8 @@ img{
 	border-style:solid;
 	border-width:1.5px;
 	border-color:#071419;
-	border-radius: 12px;
-	-moz-border-radius: 12px;
+	border-radius: 50px;
+	-moz-border-radius: 50px;
 }
 /* END GENERAL FORMAT */
 /* START UPPER LAYOUT */
